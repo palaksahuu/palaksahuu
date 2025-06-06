@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 
 <h1 align="center">Hi 👋, I'm Palak Sahu</h1>
-<h3 align="center">Visit: https://palaksahuu.github.io/Palak_Sahu_Portfolio/</h3>
+<h3 align="center">Check My Portfolio: https://palaksahuu.github.io/Palak_Sahu_Portfolio/</h3>
 <h3 align="center">Aspiring ML Developer | Artificial Intelligence | DSA | Data Visualization | Front End Developer | Python</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
 
